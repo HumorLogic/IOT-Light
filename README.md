@@ -6,3 +6,11 @@
 
 [ms-iot/remote-wiring ](https://github.com/ms-iot/remote-wiring)
 
+[Controlling Lights from Internet NODE MCU ESP8266 IOT](https://www.youtube.com/watch?v=lWWsWGM3HS8)
+
+[DIY WiFi RGB LED Lamp || ESP8266 & Blynk](https://www.youtube.com/watch?v=DkJ1f5UIuak)
+
+[The BEST Digital LED Strip Light Tutorial ](https://www.youtube.com/watch?v=9KI36GTgwuQ)
+
+
+
