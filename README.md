@@ -21,6 +21,6 @@
 [官网](http://nodemcu.com/index_cn.html#fr_54747661d775ef1a3600009e)  
 [GitHub/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
 
-![nodemcu](https://github.com/HumorLogic/IOT-Light/blob/master/images/001.png)
+![nodemcu](https://github.com/HumorLogic/IOT-Light/blob/master/images/002.png)
 
 [初识 NodeMCU 及其 DEVKIT 开发板](https://www.ibm.com/developerworks/cn/iot/library/iot-nodemcu-open-why-use/index.html)
