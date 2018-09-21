@@ -14,3 +14,13 @@
 
 [Let's IoT Hub: Tutorial 1](https://www.codeproject.com/Articles/1249621/Lets-IoT-Hub-Tutorial)
 
+## NodeMcu开发板
+
+介绍：基于乐鑫esp8266的NodeMcu开发板，具有GPIO、PWM、I2C、1-Wire、ADC等功能
+
+[官网](http://nodemcu.com/index_cn.html#fr_54747661d775ef1a3600009e)  
+[GitHub/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+
+![nodemcu]()
+
+[初识 NodeMCU 及其 DEVKIT 开发板](https://www.ibm.com/developerworks/cn/iot/library/iot-nodemcu-open-why-use/index.html)
